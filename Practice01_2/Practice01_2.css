@@ -9,12 +9,6 @@ body{
     background-color: #57C39B;
 }
 
-h1{
-    text-align: center; /*文字の位置*/
-    color: rgb(214,225,227); /*文字の色*/
-    padding: 14px; /*文字の大きさ*/
-}
-
 p{
     text-align: center; /*文字の位置*/
     color: rgb(214,225,227); /*文字の色*/
