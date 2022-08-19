@@ -1,0 +1,35 @@
+/* 
+body : 背景
+h1   : タイトル
+p    : 文
+*/
+
+body{
+    /*背景色*/
+    background-color: #57C39B;
+}
+
+h1{
+    text-align: center; /*文字の位置*/
+    color: rgb(214,225,227); /*文字の色*/
+    padding: 14px; /*文字の大きさ*/
+}
+
+p{
+    text-align: center; /*文字の位置*/
+    color: rgb(214,225,227); /*文字の色*/
+    padding: 14px; /*文字の大きさ*/
+}
+
+.example2 a{
+    /*コレ*/margin: auto;
+}
+.example2{
+    padding: 10px;
+    margin-top:10px;
+}
+
+div{
+    text-align: center; /*文字の位置*/
+    color: rgb(214,225,227); /*文字の色*/
+}
